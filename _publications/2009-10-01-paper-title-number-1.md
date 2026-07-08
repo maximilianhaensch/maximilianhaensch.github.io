@@ -3,7 +3,7 @@ title: "Positivity properties of observables in planar maximally supersymmetric 
 collection: publications
 category: Preprint
 permalink: https://arxiv.org/abs/2606.30368
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-29-06
 venue: #'Journal 1'
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
