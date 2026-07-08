@@ -2,7 +2,7 @@
 title: "Positivity properties of observables in planar maximally supersymmetric Yang-Mills theory"
 collection: publications
 category: Preprint
-link: https://arxiv.org/abs/2606.30368
+permalink: https://arxiv.org/abs/2606.30368
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-29-06
 #venue: 'Journal 1'
