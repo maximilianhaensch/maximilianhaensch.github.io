@@ -29,5 +29,5 @@ Publications
 ======
 Medium induced mixing, spatial modulations, and critical modes in QCD
 ------
-M. Haensch, F. Rennecke, L. v. Smeka, 2024, ,Phys Rev D 110, 036018,[arXiv:2308.16244](https://arxiv.org/abs/2308.16244)
+M. Haensch, F. Rennecke, L. v. Smeka, 2024, ,Phys Rev D 110, 036018, [arXiv:2308.16244](https://arxiv.org/abs/2308.16244)
 
