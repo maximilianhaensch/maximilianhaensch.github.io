@@ -16,7 +16,10 @@ This autumn I will start my PhD under the supervision of [Luis Fernando Alday](h
 
 Research
 ======
-I am generally very interested in non-perturbative aspects of quantum field theories and scattering amplitudes. In my Master's thesis I have looked at positivity properties in the coupling dependence of exact observables in planar $\mathcal{N}=4$ super Yang-Mills. A [preprint](https://arxiv.org/abs/2606.30368) of my results is available on arXiV. In the future I am looking forward to learning more about holography and conformal field theories. 
+I am generally very interested in non-perturbative aspects of quantum field theories and scattering amplitudes. In my Master's thesis I have looked at positivity properties in the coupling dependence of exact observables in planar maximally supersymmetric Yang-Mills. A [preprint](https://arxiv.org/abs/2606.30368) of my results is available on arXiV. In the future I am looking forward to learning more about holography and conformal field theories. 
 
 Preprints
+======
+
+Publications
 ======
